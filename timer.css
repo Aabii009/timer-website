@@ -1,0 +1,36 @@
+body {
+  background-color: aliceblue;
+  color: black;
+  font-size: 30px;
+}
+.container {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.show {
+  font-size: 80px;
+  color: green;
+}
+.container h1 {
+  font-size: 100px;
+  color: gray;
+}
+.container input {
+  font-size: 20px;
+}
+.start {
+  background-color: greenyellow;
+  border-style: none;
+  font-size: 50px;
+  padding: 5px 50px;
+  font-weight: bolder;
+}
+.stop {
+  background-color: red;
+  border-style: none;
+  font-size: 50px;
+  padding: 5px 50px;
+  font-weight: bolder;
+}
